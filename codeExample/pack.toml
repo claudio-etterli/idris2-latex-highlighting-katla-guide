@@ -1,0 +1,10 @@
+[custom.all.codeExample]
+type = "local"
+path = "."
+ipkg = "codeExample.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.codeExample-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"
