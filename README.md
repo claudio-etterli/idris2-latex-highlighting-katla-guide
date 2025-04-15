@@ -37,3 +37,5 @@ To keep it simple, a minimalistic latex project is set up in `main.tex`
 ## Customising
 
 It is possible to use other colors for the keywords, function names, etc. by modifying the preamble.tex's standard values.
+
+Further, there is a second main and preamble file for generating code with lined numbers.
